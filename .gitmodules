@@ -1,0 +1,7 @@
+[submodule "px4_msgs"]
+	path = px4_msgs
+	url = https://github.com/One-star11/px4_msgs.git
+[submodule "image_pipeline"]
+	path = image_pipeline
+	url = https://github.com/One-star11/image_pipeline.git
+	branch = foxy
