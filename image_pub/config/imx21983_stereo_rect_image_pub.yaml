@@ -1,0 +1,9 @@
+
+stereo_image_publisher:
+  ros__parameters:
+    framerate: 20
+    namespace: /camera
+    frame_id: camera_link
+
+    camera/width: 640
+    camera/height: 480
