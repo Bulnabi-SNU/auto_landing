@@ -3,7 +3,7 @@
 ## Demonstration & Processing pipeline description
 
 <a href="https://youtube.com/shorts/I7M_TE6y5zg?feature=share"><p align="center">
-    <img src="https://github.com/ArthurFDLR/drone-gesture-control/blob/main/.github/video_embed.PNG?raw=true" alt="Demonstration video" width="80%" style="border-radius: 5px;">
+    
 </p></a>
 
 ## Getting Started
