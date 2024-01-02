@@ -14,6 +14,7 @@ Jetson Xavier NX (Jetpack --version--) - with PX4 board connected with GPIO pins
 @image_pipeline(submodule update)  
 ROS2 Foxy   
 numpy  
+FastDDS(MicroXRCEDDS)  
 
 
 ### Step 2 - Configure Hardware
