@@ -9,9 +9,7 @@
 ## Getting Started
 
 ### Step 1 - Prerequisites
-Jetson Xavier NX (Jetpack --version--) - with PX4 board connected with GPIO pins  
-@px4_msgs(submodule update)   
-@image_pipeline(submodule update)  
+Jetson Xavier NX (Jetpack 5.0.2) - with PX4 board connected with GPIO pins -look for [HOW TO CONNECT JETSON-PX4] under  
 ROS2 Foxy   
 numpy  
 FastDDS(MicroXRCEDDS)  
