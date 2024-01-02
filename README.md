@@ -9,11 +9,11 @@
 ## Getting Started
 
 ### Step 1 - Prerequisites
-Jetson Xavier NX (Jetpack --version--) - with PX4 board connected with GPIO pins.
-@px4_msgs(submodule update).
-@image_pipeline(submodule update).
-ROS2 Foxy.
-numpy.
+Jetson Xavier NX (Jetpack --version--) - with PX4 board connected with GPIO pins. 
+@px4_msgs(submodule update). 
+@image_pipeline(submodule update). 
+ROS2 Foxy. 
+numpy. 
 
 
 ### Step 2 - Configure Hardware
