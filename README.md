@@ -13,7 +13,7 @@ Jetson Xavier NX (Jetpack --version--) - with PX4 board connected with GPIO pins
 @px4_msgs(submodule update). 
 @image_pipeline(submodule update). 
 ROS2 Foxy. 
-numpy. 
+numpy .
 
 
 ### Step 2 - Configure Hardware
@@ -32,8 +32,8 @@ numpy.
     colcon build --symlink-install
     source ~/ros2_ws/install/setup.bash
   ```
-update your camera calibration by editing the code values in ./image_pub/src/mono_image_pub.cpp.
-update your tag infos by editing the yaml file in ./apriltag_ros/share/apriltag_ros/cfg/tags_36h11.yaml.
+update your camera calibration by editing the code values in ./image_pub/src/mono_image_pub.cpp
+update your tag infos by editing the yaml file in ./apriltag_ros/share/apriltag_ros/cfg/tags_36h11.yaml
 
 ### Step 4 - Start nodes
 ```
