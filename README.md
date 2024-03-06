@@ -2,7 +2,8 @@
 
 ## Demonstration & Processing pipeline description
 
-<a href="https://youtube.com/shorts/I7M_TE6y5zg?feature=share"><p align="center">
+![ezgif com-optimize](https://github.com/One-star11/auto_landing/assets/96758271/471160a7-8e76-4793-b352-9b751d802872)
+
     
 </p></a>
 
