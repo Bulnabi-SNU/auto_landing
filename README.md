@@ -8,7 +8,7 @@
 </p></a>
 
 ## Getting Started
-
+[NOTION Page](https://www.notion.so/APRILTAG-ebb209024fac4d3891294fd2af42cf43?pvs=4)
 ### Step 1 - Prerequisites
 Jetson Xavier NX (Jetpack 5.0.2) - with PX4 board connected with GPIO pins   
 -look for [HOW TO CONNECT JETSON-PX4] under  
